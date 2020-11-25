@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-   <text:255,255,255>
+   <font:255,255,255>
    <background:0,0,0>
 
   <head>
