@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
-<style>
-   <body-font-color:(255,255,255)>
-   <body-background-color:(0,0,0)>
-      </style>
+   
   <head>
    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
+  <style>
+   {body-font-color:(255,255,255)}
+   {body-background-color:(0,0,0)}
+      </style>
+  
   <h1>Hello</h1>  
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
