@@ -2,8 +2,9 @@
 <html>
   <head>
    <meta charset="utf-8">
-    <style>
-    <div class ="text-red">
+   <style>
+   <text:255,255,255>
+   <background:0,0,0>
     </style>
     <meta name="viewport" content="width=device-width">
   <h1>Hello</h1>  
