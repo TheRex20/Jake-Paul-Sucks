@@ -15,10 +15,10 @@
   <li>Never suscribe to him in any form of social media</li>
       <li>Say nice comments to him</li>
       <li>Never fund him in any way, or even feed him a sccrap or give him a blade of grass</li>
-      <h3>Things to <strong>always</strong> do to Jake Paul</h3>
+      <h3>Things to <bold>always</bold> do to Jake Paul</h3>
       <li>Throw rotten and bad things @ him</li>
       <li>Bad commments</li>
       <li>Dislike and report him, or get him banned and kicked out of as many things you can</li>
-      <li><strong>DESPISE</strong> him so hard he forgets what it is like to be good</li>
+      <li><bold>DESPISE</bold> him so hard he forgets what it is like to be good or liked</li>
   </body>
 </html>
