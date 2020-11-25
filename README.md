@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <style>
-   <body-font-color:255,255,255>
-   <body-background-color:0,0,0>
+   <body-font-color:(255,255,255)>
+   <body-background-color:(0,0,0)>
       </style>
   <head>
    <meta charset="utf-8">
