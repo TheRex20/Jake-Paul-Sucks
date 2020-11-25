@@ -2,6 +2,9 @@
 <html>
   <head>
    <meta charset="utf-8">
+    <style>
+    <div class ="text-red">
+    </style>
     <meta name="viewport" content="width=device-width">
   <h1>Hello</h1>  
     <link href="style.css" rel="stylesheet" type="text/css" />
