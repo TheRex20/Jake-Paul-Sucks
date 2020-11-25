@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-   <style>
+
    <text:255,255,255>
    <background:0,0,0>
-    </style>
+
   <head>
    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
