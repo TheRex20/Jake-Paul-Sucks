@@ -21,5 +21,4 @@
   </body>
       <h2>Lesson of your life:</h2>
       <h1><strong><em>HATE HIM</em></strong></h1>
-
 </html>
