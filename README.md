@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
    
   <head>
@@ -9,7 +8,6 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <h2>Jake Paul Sucks</h2>
     <p>He sucks because he sucks and he really, really sucks.</p>
    <h3>Things to <strong>never<d/strong> do!!</h3>
   <li>Never suscribe to him in any form of social media</li>
