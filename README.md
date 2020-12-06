@@ -9,7 +9,7 @@
   </head>
   <body>
     <p>He sucks because he sucks and he really, really sucks.</p>
-   <h3>Things to <strong>never<d/strong> do!!</h3>
+   <h3>Things to <strong>never</strong> do!!</h3>
   <li>Never suscribe to him in any form of social media</li>
       <li>Say nice comments to him</li>
       <li>Never fund him in any way, or even feed him a sccrap or give him a blade of grass</li>
