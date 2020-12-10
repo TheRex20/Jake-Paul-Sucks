@@ -21,6 +21,6 @@
       <li>Dislike and report him, or get him banned and kicked out of as many things you can</li>
       <li><bold>DESPISE</bold> him so hard he forgets what it is like to be good or liked</li>
   </body>
-      <h2>Lesson of your life</h2>
+      <h2>Lesson of the day</h2>
 <h1>HATE HIM</h1>
 </html>
